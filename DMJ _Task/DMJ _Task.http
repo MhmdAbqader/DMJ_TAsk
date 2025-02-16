@@ -1,0 +1,6 @@
+@DMJ__Task_HostAddress = http://localhost:5096
+
+GET {{DMJ__Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

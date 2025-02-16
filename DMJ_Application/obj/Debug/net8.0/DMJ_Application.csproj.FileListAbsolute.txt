@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\bin\Debug\net8.0\DMJ_Application.deps.json
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\bin\Debug\net8.0\DMJ_Application.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\bin\Debug\net8.0\DMJ_Application.pdb
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\bin\Debug\net8.0\DMJ_Domains.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\bin\Debug\net8.0\DMJ_Domains.pdb
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Appl.D0295460.Up2Date
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\refint\DMJ_Application.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.pdb
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\ref\DMJ_Application.dll
