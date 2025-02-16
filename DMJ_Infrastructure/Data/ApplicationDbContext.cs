@@ -48,6 +48,12 @@ namespace DMJ_Infrastructure.Data
                     Id=3 ,
                     Name="HouseKeeping",
                     Description= "this department for cleaning and maintaining the office environment"            
+                },
+                new Department
+                {
+                    Id = 4,
+                    Name = "IT",
+                    Description = "this department for development environment and network data center "
                 }
 
 
