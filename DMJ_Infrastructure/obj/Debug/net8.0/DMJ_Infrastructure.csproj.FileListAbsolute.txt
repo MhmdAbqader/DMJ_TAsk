@@ -11,6 +11,7 @@ C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\DMJ_I
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\DMJ_Infrastructure.AssemblyInfoInputs.cache
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\DMJ_Infrastructure.AssemblyInfo.cs
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\DMJ_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\DMJ_Infrastructure.sourcelink.json
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\DMJ_Infr.7CEC1A5D.Up2Date
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\DMJ_Infrastructure.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Infrastructure\obj\Debug\net8.0\refint\DMJ_Infrastructure.dll

@@ -5,6 +5,7 @@ using DMJ_Application.Services.Interfaces;
 using DMJ_Application.Utilities;
 using DMJ_Infrastructure.Data;
 using DMJ_Infrastructure.Implementation;
+using Hangfire;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -24,6 +25,11 @@ namespace DMJ__Task
             builder.Services.AddDbContext<ApplicationDbContext>(options => {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("_cn"));
             });
+
+            builder.Services.AddHangfire(a => a.UseSqlServerStorage(builder.Configuration.GetConnectionString("_cn")));
+            builder.Services.AddHangfireServer();
+
+
             builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<DMJ_Application.Services.Interfaces.IAuthenticationService, DMJ_Application.Services.Implementation.AuthenticationService>();
@@ -71,7 +77,7 @@ namespace DMJ__Task
 
             app.UseAuthorization();
 
-
+            app.UseHangfireDashboard("/dashborad"); // any name u can give it  
             app.MapControllers();
 
             app.Run();

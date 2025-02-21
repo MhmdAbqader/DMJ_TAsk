@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DMJ_Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb573d4cf5f7aa3b723f9bd488da6f1d780f1e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMJ_Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMJ_Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

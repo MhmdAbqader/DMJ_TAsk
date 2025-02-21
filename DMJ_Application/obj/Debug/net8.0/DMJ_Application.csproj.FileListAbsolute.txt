@@ -8,6 +8,7 @@ C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Appl
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.AssemblyInfoInputs.cache
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.AssemblyInfo.cs
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.sourcelink.json
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Appl.D0295460.Up2Date
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\DMJ_Application.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ_Application\obj\Debug\net8.0\refint\DMJ_Application.dll

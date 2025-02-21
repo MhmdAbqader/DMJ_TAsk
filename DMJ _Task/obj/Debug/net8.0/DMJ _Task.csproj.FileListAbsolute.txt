@@ -8,6 +8,10 @@ C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\DMJ _Task.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\DMJ _Task.pdb
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Hangfire.SqlServer.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Humanizer.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -35,6 +39,7 @@ C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Microsoft.Open
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -52,6 +57,20 @@ C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\System.Runtime
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\System.Security.Permissions.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -129,6 +148,7 @@ C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\DMJ _Task.Asse
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\DMJ _Task.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\DMJ _Task.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\DMJ _Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\DMJ _Task.sourcelink.json
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\scopedcss\bundle\DMJ _Task.styles.css
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\staticwebassets.development.json
@@ -139,6 +159,7 @@ C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\staticwebasset
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DMJ _Task.props
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DMJ _Task.props
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\DMJ _Task.csproj.Up2Date
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\DMJ _Task.dll
 C:\Users\lenovo\source\repos\DMJ _Task\DMJ _Task\obj\Debug\net8.0\refint\DMJ _Task.dll

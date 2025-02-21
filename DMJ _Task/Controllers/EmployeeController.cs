@@ -3,6 +3,7 @@ using DMJ_Application.Repository;
 using DMJ_Application.Services.Interfaces;
 using DMJ_Application.Utilities;
 using DMJ_Domains.Models;
+using Hangfire;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -42,8 +43,15 @@ namespace DMJ__Task.Controllers
 
         [HttpGet("employees/{id}")]
         public IActionResult GetEmployeeDetails(int id)
-        {             
-            
+        {
+            // BackgroundJob.Enqueue(()=>SendEmail("Hello M AbQader")); 
+
+
+            Console.WriteLine(DateTime.Now);
+   //         BackgroundJob.Schedule(()=> SendEmail("Tezt@@@@@@@@@#################*******************"),TimeSpan.FromSeconds(20));
+
+            RecurringJob.AddOrUpdate(() => SendEmail("Hello M AbQader RecurringJob"),Cron.Minutely);
+
             if (!_employeeService.IsEmployeeExist(id))
                 return NotFound($"no employee with ID= {id}");
 
@@ -97,5 +105,12 @@ namespace DMJ__Task.Controllers
 
             return NotFound($"No Employee with ID= {id}");
         }
+
+        [ApiExplorerSettings(IgnoreApi = true)]
+        public void SendEmail(string email) 
+        {
+            Console.WriteLine(email+" -- "+ DateTime.Now);
+        }
+
     }
 }
